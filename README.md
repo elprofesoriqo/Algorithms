@@ -1,1 +1,3 @@
 # Informatyka
+
+Algorytmy i itp.
