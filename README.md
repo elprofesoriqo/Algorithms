@@ -13,7 +13,6 @@ This repository contains a collection of algorithms and solutions to various pro
 To run or test the algorithms, ensure you have the following:
 
 - Python 3.x or another programming language as specified in the respective algorithm files.
-- Necessary libraries (if applicable), which can be installed via pip:
 
 ```bash
 pip install <library-name>
